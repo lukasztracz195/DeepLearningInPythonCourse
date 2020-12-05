@@ -1,1 +1,1 @@
-# ImplementationOfActivationFunction
+# DeepLearningInPythonCourse
